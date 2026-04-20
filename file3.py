@@ -1,0 +1,1 @@
+# 'file3.py': Is only to test is 'git push' working
